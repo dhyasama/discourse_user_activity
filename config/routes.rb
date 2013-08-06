@@ -1,4 +1,4 @@
 Rails.application.routes.draw do 
-  get "/activity" => 'activities#index'
+  get "/activity" => 'activity#index'
 end
 
